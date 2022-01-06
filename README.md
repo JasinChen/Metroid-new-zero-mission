@@ -14,6 +14,6 @@ Difficulty: Vanilla+
 
 15 super missile tanks
 
-4.9 super bombs
+9 super bombs
 
 ![absdu-62j5j.jpg](https://s2.loli.net/2022/01/03/QRvWejhEc4TNszw.jpg)
