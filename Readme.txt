@@ -1,10 +1,10 @@
 Metroid: New zero mission Guide
 
 1.This is a hack based on Metroid: Zero-mission. The room layout is similar to original version.
-2.Bomb jump and wall jump are not necessary. If you are fisrt time to play this hack, don't try them to find the way.
+2.Bomb jump and wall jump are not necessary. If you are fisrt time to play this hack, don't use them to find the way.
 3.All items rate is 100%.
 4.Easy mode: statue hint, Normal mode: no statue hint.
-5.Unkown items are available.
+5.Unknown items are available.
 
 
 **********====Spoiler Alert====**********
